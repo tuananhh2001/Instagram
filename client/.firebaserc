@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "instagram-81417": {
+      "hosting": {
+        "client": [
+          "instagram-81417"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "instagram-81417"
+  }
+}
